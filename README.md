@@ -1,1 +1,1 @@
-django-first
+first steps in django
